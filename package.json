@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/zoexx/delete-sourcemap-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/zoexx/delete-sourcemap-webpack-plugin#readme"
+  "homepage": "https://github.com/zoexx/delete-sourcemap-webpack-plugin#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-config-minxing": "^1.1.10"
+  }
 }
