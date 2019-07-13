@@ -21,5 +21,9 @@
   "devDependencies": {
     "eslint": "^6.0.1",
     "eslint-config-minxing": "^1.1.10"
+  },
+  "dependencies": {
+    "co": "^4.6.0",
+    "fs-extra": "^8.1.0"
   }
 }
