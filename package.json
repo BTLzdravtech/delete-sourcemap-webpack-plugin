@@ -1,6 +1,6 @@
 {
   "name": "delete-sourcemap-webpack-plugin-stzhang",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "delete source map url and files after uploaded to anywhere",
   "main": "index.js",
   "repository": {
