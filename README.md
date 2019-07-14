@@ -26,3 +26,5 @@ module.exports = {
 ### 支持去掉`css`文件的`source-map`
 
 ### 当遇到内联`source-map`时，不再报`fs.unlink()`的删除文件失败错误
+
+### 调用`webpack 4`的`Plugin API`来接入插件
