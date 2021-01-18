@@ -19,7 +19,7 @@ class DeleteSourceMapWebpackPlugin{
                         yield fs.remove(existsAt);
                     }
                 })));
-            console.log(`⭐ ⭐ ⭐ deleted map file: ${countMatchMapAssets} asset(s) processed`);
+            console.log(`  Deleted map files: ${countMatchMapAssets} asset(s) processed`);
         });
     }
     apply(compiler){
