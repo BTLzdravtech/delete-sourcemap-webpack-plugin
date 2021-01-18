@@ -1,27 +1,23 @@
 {
-  "name": "delete-sourcemap-webpack-plugin-stzhang",
-  "version": "1.0.2",
+  "name": "delete-sourcemap-webpack-plugin",
+  "version": "1.0.0",
   "description": "delete source map url and files after uploaded to anywhere",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stuartZhang/delete-sourcemap-webpack-plugin.git"
+    "url": "git+https://github.com/BTLzdravtech/delete-sourcemap-webpack-plugin.git"
   },
   "keywords": [
     "source",
     "map",
     "webpack"
   ],
-  "author": "stuart_zhang",
+  "author": "Sicco",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stuartZhang/delete-sourcemap-webpack-plugin/issues"
+    "url": "https://github.com/BTLzdravtech/delete-sourcemap-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/stuartZhang/delete-sourcemap-webpack-plugin#readme",
-  "devDependencies": {
-    "eslint": "^6.0.1",
-    "eslint-config-minxing": "^1.1.10"
-  },
+  "homepage": "https://github.com/BTLzdravtech/delete-sourcemap-webpack-plugin#readme",
   "dependencies": {
     "co": "^4.6.0",
     "fs-extra": "^8.1.0"
